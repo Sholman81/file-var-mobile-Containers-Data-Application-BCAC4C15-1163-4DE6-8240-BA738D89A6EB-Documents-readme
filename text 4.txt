@@ -1,0 +1,1 @@
+Home Assistant currently does not have a feature to allow or disallow OAuth2 clients. This means that any OAuth2 client can be specified using the client_id parameter in the authorization request (/authorize). Although Home-Assistant informs the user with the message You're about to give http:// access to your Home Assistant instance.
